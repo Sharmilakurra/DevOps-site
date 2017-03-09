@@ -29,7 +29,7 @@
 		
 		<form action="Tools-list.html">	<input type="submit" class="button" value="Tools-list" />
 		</form>
-		<form action="learn.html"> <input type="submit" class="button" value="Learning" />
+		<form action="learn.html"> <input type="submit" class="button" value="documentaion" />
 		</form>	
 		
 		
